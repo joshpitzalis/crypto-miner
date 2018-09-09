@@ -33,7 +33,7 @@ module.exports = {
 				return wallet;
 			},
 			network_id: "*", // Match any network (determined by provider)
-			gas: 7000000,
+			gas: 4500000,
 			gasPrice: 21000000000 // 21 GWei
 		},
 		coverage: {
