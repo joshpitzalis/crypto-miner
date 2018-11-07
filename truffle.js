@@ -19,7 +19,7 @@ module.exports = {
 			},
 			network_id: "1", // Match mainnet only
 			gas: 4500000,
-			gasPrice: 7000000000 // 7 GWei
+			gasPrice: 15000000000 // 15 GWei
 		},
 		development: {
 			provider: function () {
